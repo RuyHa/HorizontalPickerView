@@ -8,7 +8,7 @@ https://github.com/DeveloperAcademy-POSTECH/MacC-TEAM-8bit
 r_screenshot_106D6152-B155-4E30-A653-AFAB622D28D5](https://user-images.githubusercontent.com/103024840/203305308-7bfe2c80-11bd-4dc0-8793-336a7e49c04b.png)
 
 코드를 보시면 딱 아래의 사진 처럼 동작합니다.  
-![image](https://user-images.githubusercontent.com/103024840/203305585-74f07a4a-1aa2-4ab9-828e-94c835b2b861.png)
+![OJKru4CN2](https://user-images.githubusercontent.com/103024840/203308261-f9ff6e05-c305-4caa-b2ad-fb3572095ced.gif)
 
 ### 저도 구글링을 통해 많은 부분을 가져왔으니 여러분도 필요하다면 가져다 사용하셔도 됩니다...
 ### 같이 고생해준 @sm-amoled 에게도 감사를...
